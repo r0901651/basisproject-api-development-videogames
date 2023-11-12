@@ -106,6 +106,79 @@ In deze tab ga ik uitleggen wat mijn API kan.
 ![DELETE_platformen_by_id_03](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/63572eae-4236-47cc-b494-47f1651eba39)
 
 
+
+
+
+### Postman:
+
+##### GET request van alle tabellen zonder data:
+![Empty_GET_platformen](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/fac38bed-99e0-4b3b-8342-340bb83607cf)
+![Empty_GET_ontwikkelaars](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/083f92c8-e34d-4d27-a967-828f159bfb16)
+![Empty_GET_genres](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/6891cacd-6df8-4362-856e-2231da3c0fdd)
+![Empty_GET_videogames](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/5f9c7e21-dd42-4937-8b2b-9821f7aac70e)
+
+
+
+##### PUT request naar genres:
+![PUT_meerdere_genres](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/0a895eeb-e578-454b-becd-7aab5226168f)
+![PUT_enkele_genres](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/a6901185-a920-4cad-8f23-755c047c6f54)
+
+
+
+##### GET request na PUT van genres:
+![GET_genres_na_PUT](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/4f4651ed-59a1-42ac-9c28-a78ae110982a)
+
+
+
+##### PUT request naar platformen:
+![PUT_platformen](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/cad9cb2b-2642-4584-9995-77443a94e88f)
+
+
+
+##### GET request na PUT van platformen:
+![GET_platformen_na_PUT](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/b111d448-a27b-4199-8128-0841f5752db2)
+
+
+
+##### PUT request ontwikkelaars:
+![PUT_ontwikkelaars](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/fbdf4753-4589-4a19-8fb9-237f3c3362f4)
+
+
+
+##### GET request na PUT van ontwikkelaars:
+![GET_ontwikkelaars_na_PUT](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/654fb187-d993-4bfe-bf11-8cba7a173d4e)
+
+
+
+##### PUT request videogames:
+![PUT_videogames](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/6e436a2c-8264-4309-93dc-3c5e1f4e0c7e)
+
+
+
+##### GET request na PUT van videogames:
+![GET_videogames_na_PUT](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/137ed778-68bc-4d50-a511-80ceadff68a1)
+
+
+
+##### GET request via id van videogames:
+![GET_by_id_videogames](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/eacdfeca-15fd-4b54-8a0e-a63126ddb0a0)
+
+
+
+##### DELETE request via id zonder authorization:
+![DELETE_videogame_by_id_no_auth](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/cc45965a-4181-41cf-bd9b-b656fd79a40d)
+
+
+
+
+##### DELETE request via id videogames met authorization:
+![DELETE_videogame_by_id_auth_01](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/ccb9d15a-3b74-44c3-9e1a-c42445033176)
+![DELETE_videogame_by_id_auth_02](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/4728d2dd-1307-4a5d-bd0c-1aba0c552994)
+![DELETE_videogame_by_id_auth_03](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/2b507731-dadf-46aa-948d-7cd4075f1a1c)
+![DELETE_videogame_by_id_auth_04](https://github.com/r0901651/basisproject-api-development-videogames/assets/95848828/d121c022-35a9-47c9-8da5-9da2bac3d8f4)
+
+
+
 ## Installation
 
 Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
