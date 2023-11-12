@@ -2,7 +2,9 @@
 
 
 
-In dit document ga ik screenshots tonen van mijn API voor het basisproject om aan te tonen dat deze API ook degelijk werkt.
+In dit document ga ik screenshots tonen van mijn API voor het basisproject, om aan te tonen dat deze API ook degelijk werkt.ames te verkrijgen en deze in deze API en database te verwerken.
+Mijn gekozen thema is videogames. Deze API kan worden gebruikt om een eigen bibliotheek van games bij te houden, evenals bijbehorende informatie zoals de ontwikkelaars en platformen waarop deze gespeeld kunnen worden.
+In de toekomst kan de API worden uitgebreid om mogelijk informatie van openbare API's van Steam of Epic Games te verkrijgen en deze in deze API en database te verwerken.
 
 
 ## Features
